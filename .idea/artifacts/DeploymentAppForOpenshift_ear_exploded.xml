@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="DeploymentAppForOpenshift:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DeploymentAppForOpenshift_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DeploymentAppForOpenshift/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
