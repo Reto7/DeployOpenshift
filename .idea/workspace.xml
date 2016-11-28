@@ -2,7 +2,233 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84304f4b-9e98-43de-a9cf-b47af9c4c774" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/333A66D5307B1C8C9935C59A877F1993.cache.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/4DCD15FF4FD1EFDB03B2035B0C21B1C3.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/51DCB1D3F3D956ACC80F89D3CF0AC5BE.cache.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/D03281BC3FDB49177B485D1DC10A13C4.cache.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/clear.cache.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/1.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/2.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/3.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/4.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/5.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/6.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/7.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/8.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/9.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.devmode.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.nocache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/control/HotelSearch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/control/LoginControl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/control/exceptions/NoSuchUserOrPassword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/components/TopPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/components/TopPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/components/TopPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/components/TopPanel$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/components/TopPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/ui/MyUI$MyUIServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/ui/MyUI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/Contact.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ContactView$ErrorDisplay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ContactView$ErrorLabel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ContactView$ErrorfulFieldGroup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ContactView$MyForm$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ContactView$MyForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ContactView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ListeView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ListeView$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ListeView$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/ListeView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/LoginView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/LoginView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/MainView$OpenInfoWindowOnMarkerClickListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/MainView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/SingleView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/SingleView$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/SingleView$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/SingleView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/gui/views/Views.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/EmployeeController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/EmployeeTO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/GoogleMapController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/GoogleMapControllerX.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/GoogleMapController__File.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/GoogleMapTO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/Hotel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/model/ModelHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/JavaSSLCertificate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/MySocetFactoryIgnoringCertificates$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/MySocetFactoryIgnoringCertificates.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/SendMailTLS$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/SendMailTLS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/SendMailUnverschluesselt$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/SendMailUnverschluesselt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/model/GoogleMapTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/model/ModelHelperTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/util/SendMailTLSTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/VAADIN/themes/mytheme/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/333A66D5307B1C8C9935C59A877F1993.cache.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/4DCD15FF4FD1EFDB03B2035B0C21B1C3.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/51DCB1D3F3D956ACC80F89D3CF0AC5BE.cache.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/D03281BC3FDB49177B485D1DC10A13C4.cache.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/clear.cache.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/1.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/2.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/3.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/4.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/5.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/6.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/7.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/8.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/9.cache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.devmode.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.nocache.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/control/HotelSearch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/control/LoginControl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/control/exceptions/NoSuchUserOrPassword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/components/TopPanel$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/components/TopPanel$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/components/TopPanel$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/components/TopPanel$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/components/TopPanel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/ui/MyUI$MyUIServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/ui/MyUI.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/Contact.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ContactView$ErrorDisplay.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ContactView$ErrorLabel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ContactView$ErrorfulFieldGroup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ContactView$MyForm$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ContactView$MyForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ContactView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ListeView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ListeView$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ListeView$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/ListeView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/LoginView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/LoginView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/MainView$OpenInfoWindowOnMarkerClickListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/MainView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/SingleView$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/SingleView$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/SingleView$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/SingleView.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/gui/views/Views.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/EmployeeController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/EmployeeTO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/GoogleMapController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/GoogleMapControllerX.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/GoogleMapController__File.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/GoogleMapTO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/Hotel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/model/ModelHelper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/JavaSSLCertificate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/MySocetFactoryIgnoringCertificates$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/MySocetFactoryIgnoringCertificates.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/SendMailTLS$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/SendMailTLS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/SendMailUnverschluesselt$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/util/SendMailUnverschluesselt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/atmosphere-runtime-2.2.9.vaadin2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/flute-1.3.0.gg2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/googlemaps-1.3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/gwt-ajaxloader-1.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/gwt-maps-api-3.10.0-alpha-7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.2.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/javax.mail-1.5.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/jsoup-1.8.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/junit-3.8.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/sac-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-client-compiled-7.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-push-7.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-sass-compiler-0.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-server-7.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-shared-7.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-slf4j-jdk14-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/lib/vaadin-themes-7.7.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/ajaxloader/client/AjaxKeyConstants_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/CurrencyList_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/constants/NumberConstantsImpl_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/impl/LocaleInfoImpl_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/impl/LocaleInfoImpl_shared.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/lang/widgetset_00046VaadinmapsWidgetset__EntryMethodHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/DocumentModeAsserter_DocumentModeProperty.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/impl/WindowImplIE_Resources_default_InlineClientBundleGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/ui/FormPanel_IFrameTemplateImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/ui/MenuBar_Resources_default_InlineClientBundleGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/ui/impl/ClippedImageImpl_DraggableTemplateImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/ui/impl/ClippedImageImpl_TemplateImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplGecko1_8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplIe10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplIe8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplIe9.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplSafari.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/vaadin/client/debug/internal/theme/DebugWindowStyles_default_InlineClientBundleGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/vaadin/client/metadata/ConnectorBundleLoaderImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/vaadin/client/ui/dd/VAcceptCriterionFactoryImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/vaadin/client/ui/richtextarea/VRichTextToolbar_Images_default_InlineClientBundleGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.generated/com/vaadin/client/ui/richtextarea/VRichTextToolbar_Strings_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/WEB-INF/deploy/widgetset.VaadinmapsWidgetset/rpcPolicyManifest/manifest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/4DCD15FF4FD1EFDB03B2035B0C21B1C3.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/C81F8CA7CA7012F31BDE883DF6C99E61.cache.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/compilation-mappings.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/1.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/2.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/3.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/4.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/5.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/6.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/7.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/8.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/9.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/googlemaps/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.devmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.nocache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.GoogleMapTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.ModelHelperTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-util.SendMailTLSTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/model.GoogleMapTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/model.ModelHelperTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/util.SendMailTLSTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/VAADIN/themes/mytheme/addons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/VAADIN/themes/mytheme/mytheme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/VAADIN/themes/mytheme/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/VAADIN/themes/mytheme/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/appengine-web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/WEB-INF/deploy/widgetset.VaadinmapsWidgetset/rpcPolicyManifest/manifest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/4DCD15FF4FD1EFDB03B2035B0C21B1C3.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/C81F8CA7CA7012F31BDE883DF6C99E61.cache.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/compilation-mappings.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/1.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/2.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/3.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/4.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/5.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/6.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/7.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/8.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/deferredjs/4DCD15FF4FD1EFDB03B2035B0C21B1C3/9.cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/googlemaps/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.devmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/classes/VAADIN/widgetsets/widgetset.VaadinmapsWidgetset/widgetset.VaadinmapsWidgetset.nocache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/x-1.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="DeploymentAppForOpenshift.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +249,18 @@
     <favorites_list name="DeploymentAppForOpenshift" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="13" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +274,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -52,6 +290,13 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="PhpServers">
     <servers />
@@ -88,6 +333,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -116,15 +362,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeploymentAppForOpenshift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeploymentAppForOpenshift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,6 +761,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -634,37 +899,37 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1010" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3243243" sideWeight="0.53895074" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37955347" sideWeight="0.23290938" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3783784" sideWeight="0.7670906" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22087379" sideWeight="0.4938704" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22411004" sideWeight="0.4938704" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.49676377" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22087379" sideWeight="0.5061296" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.49676377" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3243243" sideWeight="0.53895074" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.49676377" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
@@ -715,10 +980,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="17">
+          <caret line="13" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="10" />
           <folding />
         </state>
       </provider>

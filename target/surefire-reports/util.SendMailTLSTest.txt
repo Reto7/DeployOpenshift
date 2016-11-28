@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: util.SendMailTLSTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.895 sec <<< FAILURE!
+testSend(util.SendMailTLSTest)  Time elapsed: 3.892 sec  <<< ERROR!
+java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535 Incorrect authentication data
+
+	at util.SendMailUnverschluesselt.send(SendMailUnverschluesselt.java:65)
+	at util.SendMailTLSTest.testSend(SendMailTLSTest.java:14)
+Caused by: javax.mail.AuthenticationFailedException: 535 Incorrect authentication data
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:932)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:843)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:748)
+	at javax.mail.Service.connect(Service.java:388)
+	at javax.mail.Service.connect(Service.java:246)
+	at javax.mail.Service.connect(Service.java:195)
+	at javax.mail.Transport.send0(Transport.java:254)
+	at javax.mail.Transport.send(Transport.java:124)
+	at util.SendMailUnverschluesselt.send(SendMailUnverschluesselt.java:61)
+	... 29 more
+
